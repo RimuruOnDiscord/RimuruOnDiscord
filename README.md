@@ -22,5 +22,4 @@
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
-https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-Thanks for visiting my profile! Feel free to explore my repositories.
+Check out my pinned repositories below!
