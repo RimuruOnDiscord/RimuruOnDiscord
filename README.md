@@ -18,7 +18,7 @@
 
 ## Contact Me
 - Discord: [@velocityontop](http://discord.com/users/647737575682867214)
-- Twitter: [@yourhandle](https://x.com/Ve1ocityOnTop)
+- Twitter: [@Ve1ocityOnTop](https://x.com/Ve1ocityOnTop)
 
 ---
 Check out my pinned repositories below!
